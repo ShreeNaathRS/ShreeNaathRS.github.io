@@ -278,6 +278,9 @@ MIT
 @angular/forms
 MIT
 
+ng-connection-service
+MIT
+
 @angular/animations
 MIT
 
